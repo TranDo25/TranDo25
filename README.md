@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TranDo25
+- 👋 Hi, I’m Trần Xuân Độ
 - 👀 I’m interested in coding especially create the web
 - 🌱 I’m currently learning IT at PTIT
 - 💞️ I’m looking to collaborate on facebook
