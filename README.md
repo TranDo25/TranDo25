@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Trần Xuân Độ
-- 👀 I’m interested in coding especially create the web
-- 🌱 I’m currently learning IT at PTIT
-- 💞️ I’m looking to collaborate on facebook
+- 👀 I am interested in coding especially create the web, deep learning, object detection
+- 🌱 I graduated PTIT in 2024
 - 📫 How to reach me: dotrantb25@gmail.com
 
 <!---
